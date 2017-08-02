@@ -1,0 +1,7 @@
+This is my first program using FreeGlut.
+
+This is a TicTacToe game
+to run it, use this code while in the directory:
+
+make ; ./TicTacToe
+
